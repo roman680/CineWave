@@ -1,9 +1,8 @@
 # :popcorn: CINEMA APP :popcorn:
 ### Project descriprion:
-``` text
-The cinema app is a web application that allows users to search for movies, to make order, to choose cinema-halls, etc.
-So lets start!
-```
+
+The cinema app is a web application that allows users to search for movies,
+to make order, to choose cinema-halls, etc. So lets start!
 
 ## :zap:App features:zap:
 - register as a user/admin
@@ -23,11 +22,14 @@ So lets start!
 
 ## 🔧 Technologies 🔧
 - Java 17
-- Apache Tomcat 9.0.50
-- Apache maven 4.0.0
-- HQL
-- Hibernate 5.6.14.Final
 - Spring framework(Security/Core/WebMvc)
+- Hibernate 5.6.14.Final
+- Apache Maven 4.0.0
+- Json
+- Jackson
+- HQL
+- MySql
+- Apache Tomcat 9.0.50
 
 ## :question: How to use :question:
 - Change data in `resources/db.properties`
