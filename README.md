@@ -1,7 +1,7 @@
-# :popcorn: CINEMA APP :popcorn:
+# :popcorn: CineWave :popcorn:
 ### Project descriprion:
 
-The cinema app is a web application that allows users to search for movies,
+The CineWave is a web application that allows users to search for movies,
 to make order, to choose cinema-halls, etc. So lets start!
 
 ## :zap:App features:zap:
